@@ -55,3 +55,7 @@
 ![Commit changes](https://gyazo.com/2be0c7f3c7086adbeac05c5987d8b42a.png)
 
 16. You're now ready to start building your own personal website!
+
+## Your GitHub Pages URL
+
+You'll notice that the deployed website will be hosted at `<username>.github.io/<repository name>`, or `arpanlaha.github.io/webdev-intro-workshop` in our example. If you want to host a website at your GitHub Pages root, or just `<username>.github.io`, create a repository with the name `<username>.github.io` and follow steps 4-6 from above to enable GitHub Pages.
