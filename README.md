@@ -46,7 +46,9 @@
 
 ![filesystem view](https://gyazo.com/903e16f8a8339b4ed12f7c7037e30eeb.png)
 
-14. On line 11, after `Hello world!`, add some more text (`Test` in the example) and save using your operating system's shortcut (Ctrl-s or Cmd-s). You should see this reflected on the right. ![Add test](https://gyazo.com/cec5faefb287afba64adb727a0c8f97b.png)
+14. On line 11, after `Hello world!`, add some more text (`Test` in the example) and save using your operating system's shortcut (Ctrl-s or Cmd-s). You should see this reflected on the right.
+
+![Add test](https://gyazo.com/cec5faefb287afba64adb727a0c8f97b.png)
 
 15. Navigate back to the GitHub menu pane (where we linked our sandbox). Add a short description of your changes to the `Summary` input (not the `Optional description`), and hit `Commit Changes`. If you then navigate to your GitHub repository, you'll see your changes have been pushed. After a few minutes, you'll also see your changes reflected in the deployed GitHub Pages URl we made in step 6.
 
