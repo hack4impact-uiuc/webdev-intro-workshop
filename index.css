@@ -85,14 +85,16 @@ body {
 }
 
 .iconsRow {
+  margin-top: 2em;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.iconsRow img {
+.iconsRow a {
   display: inline-block;
-  width: 5%;
+  width: 5em;
+  height: 5em;
   margin-left: 1em;
   margin-right: 1em;
 }
